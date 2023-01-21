@@ -48,3 +48,11 @@ h2 {
     list-style-type: none;
     margin-right: 30px;
 }
+
+
+/* hero image */
+#hero-image {
+    height: 100vh;
+
+    background: url('../images/image-profile-tablet.webp') no-repeat right;
+}
