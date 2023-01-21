@@ -1,3 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&family=Space+Grotesk:wght@500;700&display=swap');
+
+
 body {
-    background-color: aquamarine;
+    background-color: #151515;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Space Grotesk', sans-serif;
+    color: #FFFFFF;
+}
+
+
+h1,
+h2,
+h4,
+h5,
+hr {
+
+    color: #FFFFFF;
+}
+
+h1 {
+    font-size: 88px;
+    letter-spacing: -2.5px;
+
+}
+
+h2 {
+    font-size: 48px;
+    letter-spacing: -1.5px;
+}
+
+#logo {
+    float: left;
+    font-size: 280%;
 }
