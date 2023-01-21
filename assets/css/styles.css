@@ -33,3 +33,18 @@ h2 {
     float: left;
     font-size: 280%;
 }
+
+#logo,
+#social {
+    line-height: 75px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+/* social media links */
+
+#social li {
+    float: right;
+    list-style-type: none;
+    margin-right: 30px;
+}
